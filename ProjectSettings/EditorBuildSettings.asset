@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/plane detector.unity
+    path: Assets/_Scenes/plane detector.unity
     guid: 9be0afd1aa09643f193a591668fd64b2
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c0f61db9fb21c4ebab1ef29a40e5d289, type: 2}
